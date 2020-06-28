@@ -1,0 +1,8 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+USER_OBJS :=
+
+LIBS := -l"C:/ti/C6xCSL/lib_3x/csl6713.lib" -l"c6x1x_edma_mcbsp.l67" -l"dsk6713_edma_aic23.l67" -l"C:/ti/DSK6713/c6000/dsk6713/lib/dsk6713bsl.lib" -l"libc.a"
+
